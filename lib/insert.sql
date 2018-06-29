@@ -61,3 +61,4 @@ INSERT INTO users (name, age)
   VALUES ("Person V", 29);
 
 INSERT INTO pledges (amount, user_id, project_id)
+  VALUES (1000, 1, 1);

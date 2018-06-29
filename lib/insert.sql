@@ -62,3 +62,33 @@ INSERT INTO users (name, age)
 
 INSERT INTO pledges (amount, user_id, project_id)
   VALUES (1000, 1, 1);
+INSERT INTO pledges (amount, user_id, project_id)
+  VALUES (1000, 1, 1);
+INSERT INTO pledges (amount, user_id, project_id)
+  VALUES (1000, 1, 1);
+INSERT INTO pledges (amount, user_id, project_id)
+  VALUES (1000, 1, 1);
+INSERT INTO pledges (amount, user_id, project_id)
+  VALUES (1000, 1, 1);
+INSERT INTO pledges (amount, user_id, project_id)
+  VALUES (1000, 1, 1);
+INSERT INTO pledges (amount, user_id, project_id)
+  VALUES (1000, 1, 1);
+INSERT INTO pledges (amount, user_id, project_id)
+  VALUES (1000, 1, 1);
+INSERT INTO pledges (amount, user_id, project_id)
+  VALUES (1000, 1, 1);
+INSERT INTO pledges (amount, user_id, project_id)
+  VALUES (1000, 1, 1);
+INSERT INTO pledges (amount, user_id, project_id)
+  VALUES (1000, 1, 1);
+INSERT INTO pledges (amount, user_id, project_id)
+  VALUES (1000, 1, 1);
+INSERT INTO pledges (amount, user_id, project_id)
+  VALUES (1000, 1, 1);
+INSERT INTO pledges (amount, user_id, project_id)
+  VALUES (1000, 1, 1);
+INSERT INTO pledges (amount, user_id, project_id)
+  VALUES (1000, 1, 1);
+INSERT INTO pledges (amount, user_id, project_id)
+  VALUES (1000, 1, 1);

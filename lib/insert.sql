@@ -18,3 +18,4 @@ INSERT INTO projects (title, category, funding_goal, start_date, end_date)
   VALUES ("Project 9", "Education", 500000, "01/01/2018", "01/01/2020");
 INSERT INTO projects (title, category, funding_goal, start_date, end_date)
   VALUES ("Project 10", "Education", 500000, "01/01/2018", "01/01/2020");
+

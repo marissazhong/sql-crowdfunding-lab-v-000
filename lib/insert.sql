@@ -19,3 +19,13 @@ INSERT INTO projects (title, category, funding_goal, start_date, end_date)
 INSERT INTO projects (title, category, funding_goal, start_date, end_date)
   VALUES ("Project 10", "Education", 500000, "01/01/2018", "01/01/2020");
 
+INSERT INTO users (name, age)
+  VALUES ("Person A", 25)
+INSERT INTO users (name, age)
+  VALUES ("Person B", 26)
+INSERT INTO users (name, age)
+  VALUES ("Person C", 27)
+INSERT INTO users (name, age)
+  VALUES ("Person D", 28)
+INSERT INTO users (name, age)
+  VALUES ("Person E", 29)
